@@ -1,5 +1,10 @@
-### Hi there 👋
+
+# Hi there 👋
+My name is Sabrina Marzuki and I'm a software engineering student based in Kuala Lumpur, Malaysia.
+
 ![](https://github.com/sbrnmrzk/sbrnmrzk/blob/master/header.gif)
+
+
 <!--
 **sbrnmrzk/sbrnmrzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
