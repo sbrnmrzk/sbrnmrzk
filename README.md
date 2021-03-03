@@ -1,6 +1,6 @@
 
 # Hi there 👋
-My name is Sabrina Marzuki and I'm a software engineering student based in Kuala Lumpur, Malaysia.
+My name is Sabrina Marzuki and I'm a software engineering graduate based in Kuala Lumpur, Malaysia.
 
 ![](https://github.com/sbrnmrzk/sbrnmrzk/blob/master/header.gif)
 
